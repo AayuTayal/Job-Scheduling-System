@@ -36,4 +36,3 @@ The scheduler uses the APScheduler Python library and prints "Hello World" to th
 
 ## Author
 Aayush Agrawal  
-Final Year BTech, IIT Jodhpur  
